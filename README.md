@@ -45,7 +45,7 @@ O Engenheiro de Dados deverá entregar:
    * Cliente,
    * Despachante
 ### 2. Fornecer Dados Analíticos para os Gestores
-   * Criar armazem de dados dimensional, que possa responder as perguntas:
+   Criar armazem de dados dimensional, que possa responder as perguntas:
     * Quais e quantos veículos foram locados com grão mensal?
     * Quais despachantes locaram quais veículos com grão mensal?
     * Qual o faturamento por veículo com grão mensal?
