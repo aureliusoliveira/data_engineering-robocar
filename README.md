@@ -15,7 +15,7 @@ O Engenheiro de Dados deverá entregar:
   * Modelo Entidade-Relacionamento (__Entity Relationship Diagram - ERD__),
   * Scripts para criação das tabelas,
   * Dados para teste e desenvolvimento do software com scripts.
-  * Cadastro de Veículos:
+  ##### Cadastro de Veículos:
    * Identificador,
    * Data de Aquisição,
    * Ano,
@@ -23,7 +23,7 @@ O Engenheiro de Dados deverá entregar:
    * Placa,
    * Status ("Disponível", "Indisponível", "Locado"),
    * Preço da Diária
-  * Cadastro de Clientes:
+  ##### Cadastro de Clientes:
    *  Identificador,
    *  CPF,
    *  Número da CNH,
@@ -33,12 +33,12 @@ O Engenheiro de Dados deverá entregar:
    *  Data de Nascimento,
    *  Telefone,
    *  Status ("Ativo", "Inativo")
-  *  Cadastro de Despachantes
+  ##### Cadastro de Despachantes
    * Identificador,
    * Nome,
    * Status ("Ativo", "Inativo"),
    * Filial
-  * Locação
+  ##### Locação
    * Veículo,
    * Data locação,
    * Valor total,
