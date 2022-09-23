@@ -50,6 +50,7 @@ Criar armazem de dados dimensional, que possa responder as perguntas:
    * Quais despachantes locaram quais veículos com grão mensal
    * Qual o faturamento por veículo com grão mensal
    * Qual o faturamento por despachante com grão mensal
+
 Deve ser entregue:
    * Script para extração e carga de dados
    * Scripts para a criação das tabelas
