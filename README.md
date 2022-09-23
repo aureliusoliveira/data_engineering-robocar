@@ -51,7 +51,7 @@ Criar armazem de dados dimensional, que possa responder as perguntas:
    * Qual o faturamento por veículo com grão mensal
    * Qual o faturamento por despachante com grão mensal
 
-Deve ser entregue:
+ Deve ser entregue:
    * Script para extração e carga de dados
    * Scripts para a criação das tabelas
    * Forma de visões prontas para responder as perguntas acima
